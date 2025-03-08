@@ -5,10 +5,10 @@ This project showcases a comprehensive analysis of car sales data for the years 
 
 As part of my data analysis portfolio, this project demonstrates my skills in **data cleaning** (Excel), **data visualization** (Power BI), and **DAX** for creating calculated columns and measures. The final dashboard enables stakeholders to explore key metrics and trends with ease.
 
-**[View the Dashboard](#) | [Download car_sales_dashboard.pbix](car_sales_dashboard.pbix)**  
+**[View the Dashboard](#) | [Download car_sales_dashboard.pbix](Car_sales_dashboard.pbix)**  
 (*Note*: Replace the link above with the actual URL or path to your dashboard file once uploaded to GitHub.)
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)  
+![Dashboard Screenshot](car_sales_dashboard.png)  
 (*Note*: Replace with the path to your dashboard screenshot after uploading it to the repository.)
 
 ## Project Type
